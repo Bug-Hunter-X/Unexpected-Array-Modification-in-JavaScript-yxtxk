@@ -1,0 +1,3 @@
+# Unexpected Array Modification Bug
+
+This repository demonstrates a common JavaScript bug related to unexpected array modification. The provided code snippet shows a function that intends to double the values in an array, but it inadvertently modifies the original array, leading to unexpected behavior. The solution provides an alternative that avoids this problem by creating a copy of the array before modification.
